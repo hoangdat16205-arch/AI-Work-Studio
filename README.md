@@ -6,7 +6,7 @@ Flask/Python, giao diện mint tiếng Việt, văn bản/ảnh/voice/video, tà
 
 ## Tải từ GitHub
 
-**[Tải bản V8.3 tại Releases](https://github.com/hoangdat16205-arch/AI-Work-Studio/releases/tag/v8.3)** → chọn tệp `AI_Work_Studio_V8_3.zip` trong Assets.
+**[Tải ZIP V8.3 trực tiếp](https://github.com/hoangdat16205-arch/AI-Work-Studio/archive/refs/tags/v8.3.zip)**. Hoặc mở [Releases V8.3](https://github.com/hoangdat16205-arch/AI-Work-Studio/releases/tag/v8.3) → **Assets** → **Source code (zip)**.
 
 Hoặc bấm **Code** → **Download ZIP**. Giải nén toàn bộ, vào thư mục chứa `start_windows.bat` để chạy.
 
