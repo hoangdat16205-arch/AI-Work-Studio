@@ -1,0 +1,10 @@
+Flask>=3.1,<4
+python-dotenv>=1.0,<2
+edge-tts>=7.2.8,<8
+langdetect>=1.0.9,<2
+elevenlabs>=2.70,<3
+requests>=2.32,<3
+pypdf>=5,<7
+python-docx>=1.1,<2
+payos>=1.1,<2
+gunicorn>=23,<26; platform_system != "Windows"

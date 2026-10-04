@@ -1,0 +1,21 @@
+{
+  "$schema": "https://app.kilo.ai/config.json",
+  "default_agent": "ai-manager",
+  "share": "disabled",
+  "provider": {
+    "private-ai": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "AI riêng của công ty",
+      "options": {
+        "baseURL": "{env:SELF_HOSTED_BASE_URL}",
+        "apiKey": "{env:SELF_HOSTED_API_KEY}"
+      },
+      "models": {
+        "YOUR_MODEL_ID": {
+          "name": "Thay bằng model thực tế trên máy chủ GPU",
+          "limit": { "context": 32768, "output": 8192 }
+        }
+      }
+    }
+  }
+}

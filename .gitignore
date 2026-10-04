@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+v7_voice_output/
+studio_assets/
+studio_exports/
+veo_jobs/
+workbench.sqlite3*
+.ai-company/
+
+.accounts/
+runtime/
